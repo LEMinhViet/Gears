@@ -1,0 +1,9 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Assets/img00.tpsheet
+textureFileNames:
+- Assets/Assets/img00.png
+normalmapFileNames:
+- 
+enableDebugOutput: 0

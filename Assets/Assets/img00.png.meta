@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 8128267e43be95e45960c6133b527acc
+timeCreated: 1508278817
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sp_1
+    21300002: sp_2
+    21300004: sp_4
+    21300006: sp_8
+    21300008: sp_16
+    21300010: sp_32
+    21300012: sp_64
+    21300014: sp_128
+    21300016: sp_256
+    21300018: sp_512
+    21300020: sp_1024
+    21300022: sp_2048
+    21300024: sp_4096
+    21300026: sp_8192
+    21300028: sp_16384
+    21300030: sp_32768
+    21300032: sp_65536
+    21300034: sp_bottom
+    21300036: sp_bulb_off
+    21300038: sp_bulb_on
+    21300040: sp_gear
+    21300042: sp_logo
+    21300044: sp_mark_00
+    21300046: sp_mark_01
+    21300048: sp_top
+    21300050: sp_slot
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sp_1
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1159
+        width: 103
+        height: 134
+      alignment: 9
+      pivot: {x: 0.49514562, y: 0.50373137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_2
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 999
+        width: 131
+        height: 149
+      alignment: 9
+      pivot: {x: 0.519084, y: 0.49328858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_4
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1434
+        width: 137
+        height: 146
+      alignment: 9
+      pivot: {x: 0.48175183, y: 0.510274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_8
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1132
+        width: 121
+        height: 161
+      alignment: 9
+      pivot: {x: 0.49586776, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_16
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1037
+        width: 142
+        height: 154
+      alignment: 9
+      pivot: {x: 0.49295774, y: 0.50974023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_32
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1176
+        width: 165
+        height: 156
+      alignment: 9
+      pivot: {x: 0.47878787, y: 0.49679488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_64
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1275
+        width: 172
+        height: 157
+      alignment: 9
+      pivot: {x: 0.50581396, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_128
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1150
+        width: 191
+        height: 159
+      alignment: 9
+      pivot: {x: 0.513089, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_256
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1497
+        width: 203
+        height: 156
+      alignment: 9
+      pivot: {x: 0.49753696, y: 0.49679488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_512
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1295
+        width: 180
+        height: 155
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.5064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_1024
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1452
+        width: 209
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5119617, y: 0.48828125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_2048
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1311
+        width: 211
+        height: 147
+      alignment: 9
+      pivot: {x: 0.507109, y: 0.4931973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_4096
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1350
+        width: 220
+        height: 158
+      alignment: 9
+      pivot: {x: 0.51363635, y: 0.5031645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_8192
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1334
+        width: 198
+        height: 161
+      alignment: 9
+      pivot: {x: 0.48989898, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_16384
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1510
+        width: 235
+        height: 143
+      alignment: 9
+      pivot: {x: 0.506383, y: 0.48601398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_32768
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1605
+        width: 246
+        height: 146
+      alignment: 9
+      pivot: {x: 0.49593496, y: 0.49657536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_65536
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1460
+        width: 231
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5064935, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_bottom
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1948
+        width: 1303
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_bulb_off
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1925
+        width: 34
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6415094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_bulb_on
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1980
+        width: 62
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_gear
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1655
+        width: 392
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_logo
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1101
+        width: 1003
+        height: 650
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_mark_00
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1193
+        width: 197
+        height: 155
+      alignment: 9
+      pivot: {x: 0.50507617, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_mark_01
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1582
+        width: 253
+        height: 207
+      alignment: 9
+      pivot: {x: 0.50395256, y: 0.5024155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_slot
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1791
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sp_top
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1753
+        width: 1281
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
